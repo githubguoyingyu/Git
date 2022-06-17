@@ -23,5 +23,8 @@ object Demo01_Git {
     //提交该代码 hot-fix commit1
     //切换回master 发现没有这些注释与代码
     //然后回到hot-fix 提交下注释再回到master进行合并 merge into current
+    //以上代码正常合并 冲突合并分别再master与hot-fix增加代码并分别提交 然后再合并
+    println("hello master")
+
   }
 }
