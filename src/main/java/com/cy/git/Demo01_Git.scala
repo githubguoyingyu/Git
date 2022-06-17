@@ -25,7 +25,7 @@ object Demo01_Git {
     //然后回到hot-fix 提交下注释再回到master进行合并 merge into current
     //以上代码正常合并 冲突合并分别再master与hot-fix增加代码并分别提交 然后再合并
     println("hello master")
-
+    //冲突左右合并然后应用即可 查看log信息 即可看到
     println("hello hot-fix")
   }
 }
