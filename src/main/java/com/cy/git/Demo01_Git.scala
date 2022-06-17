@@ -10,5 +10,16 @@ object Demo01_Git {
     println("hello git")
     println("hello git2")
     println("hello git3")
+    //>>>>>>>>>>分支创建及切换>>>>>>>>>>>>>>>>
+    //右键项目 new Branch 创建分支
+    //右下角的 master 也可以用来点击创建分支
+    //勾选checkout 创建并切换到该分支
+    //创建了一个 hot-fix 分支并切换到该分支
+    //切换其他分支也是同理 点击右下角即可 选择分支 checkout即可
+    //当前代码所属分支 查看右下角即可
+    //>>>>>>>>>>分支合并>>>>>>>>>>>>>>>>
+    //切换hot-fix分支添加 hello g4
+    println("hello git4")
+    //提交该代码 hot-fix commit1
   }
 }
