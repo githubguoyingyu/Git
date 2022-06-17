@@ -26,5 +26,6 @@ object Demo01_Git {
     //以上代码正常合并 冲突合并分别再master与hot-fix增加代码并分别提交 然后再合并
     println("hello master")
 
+    println("hello hot-fix")
   }
 }
