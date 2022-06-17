@@ -27,5 +27,7 @@ object Demo01_Git {
     println("hello master")
     //冲突左右合并然后应用即可 查看log信息 即可看到
     println("hello hot-fix")
+    //点击绿色上箭头就是push 可以右键，或者菜单栏git push 或者右上角的push
+    println("hello push")
   }
 }
