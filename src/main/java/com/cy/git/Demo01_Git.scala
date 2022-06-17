@@ -9,5 +9,6 @@ object Demo01_Git {
   def main(args: Array[String]): Unit = {
     println("hello git")
     println("hello git2")
+    println("hello git3")
   }
 }
